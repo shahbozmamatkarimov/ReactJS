@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   display: flex;
   justify-content: center;
@@ -41,4 +42,30 @@ body{
 
 .reset:active{
   box-shadow: none;
+=======
+.App { 
+  margin: 100px auto;
+}
+
+.content{
+  border-radius: 10px;
+  box-shadow: 15px 15px 15px grey;
+  margin: 25px;
+  padding: 20px;
+}
+
+
+/* search */
+
+.search-input{
+  padding: 2rem;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+/* movie_list_item */
+
+.eyes{
+  border: none;
+>>>>>>> 28c2096ab4b970f8377649a1259e684d9f72080d
 }

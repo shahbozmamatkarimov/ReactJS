@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "class",
+=======
+  "name": "movie",
+>>>>>>> 28c2096ab4b970f8377649a1259e684d9f72080d
   "version": "0.1.0",
   "private": true,
   "dependencies": {
